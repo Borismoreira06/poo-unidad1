@@ -17,5 +17,5 @@ El código fuente se encuentra organizado en paquetes dentro del directorio `src
 
 ## Cómo compilar y ejecutar en Eclipse
 
-1. Clona el repositorio desde GitHub:
+1. Clona el repositorio desde GitHub: https://github.com/Borismoreira06/poo-unidad1
    
